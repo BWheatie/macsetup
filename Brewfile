@@ -3,6 +3,7 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
+brew "asdf"
 brew "python"
 brew "docker", link: false
 brew "docker-compose", link: false
